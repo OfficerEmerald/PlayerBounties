@@ -1,0 +1,10 @@
+name: PlayerBounties
+main: com.officeremerald.utils.CoreB
+version: ALPHA
+author: OfficerEmerald
+depend: [Vault, HolographicDisplays]
+commands:
+  bounty:
+    aliases: [b, placebounty, bountyplace]
+  bountyadmin:
+    aliases: [ba, bountya]
